@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ozren Bogdanović | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/ozren-bogdanovic/</link>
+      <atom:link href="https://CrispLab.github.io/authors/ozren-bogdanovic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ozren Bogdanović</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Ozren Bogdanović</title>
+      <link>https://CrispLab.github.io/authors/ozren-bogdanovic/</link>
+    </image>
+    
+    <item>
+      <title>Rapid recovery gene downregulation during excess-light stress and recovery in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/crisp-rapid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-rapid-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

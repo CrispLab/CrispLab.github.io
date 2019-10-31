@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veronica Albrecht-Borth | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/veronica-albrecht-borth/</link>
+      <atom:link href="https://CrispLab.github.io/authors/veronica-albrecht-borth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronica Albrecht-Borth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Veronica Albrecht-Borth</title>
+      <link>https://CrispLab.github.io/authors/veronica-albrecht-borth/</link>
+    </image>
+    
+    <item>
+      <title>Uncoupling high light responses from singlet oxygen retrograde signaling and spatial-temporal systemic acquired acclimation in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/carmody-uncoupling-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/carmody-uncoupling-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic suppression of plant development and chloroplast biogenesis via the Snowy Cotyledon 3 and Phytochrome B pathways</title>
+      <link>https://CrispLab.github.io/publication/ganguly-genetic-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/ganguly-genetic-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

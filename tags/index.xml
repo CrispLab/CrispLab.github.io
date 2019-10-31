@@ -1,16 +1,376 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
+    <title>Tags | CrispLab</title>
     <link>https://CrispLab.github.io/tags/</link>
       <atom:link href="https://CrispLab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://CrispLab.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Chromatin</title>
+      <link>https://CrispLab.github.io/tags/chromatin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/chromatin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNVs</title>
+      <link>https://CrispLab.github.io/tags/cnvs/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/cnvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation</title>
+      <link>https://CrispLab.github.io/tags/dna-methylation/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/dna-methylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epigenetic</title>
+      <link>https://CrispLab.github.io/tags/epigenetic/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome annotation</title>
+      <link>https://CrispLab.github.io/tags/genome-annotation/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/genome-annotation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haplotypes</title>
+      <link>https://CrispLab.github.io/tags/haplotypes/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/haplotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maize</title>
+      <link>https://CrispLab.github.io/tags/maize/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methylation</title>
+      <link>https://CrispLab.github.io/tags/methylation/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/methylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant genomics</title>
+      <link>https://CrispLab.github.io/tags/plant-genomics/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/plant-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sRNAs</title>
+      <link>https://CrispLab.github.io/tags/srnas/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/srnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teosinte</title>
+      <link>https://CrispLab.github.io/tags/teosinte/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/teosinte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transposable element (TE)</title>
+      <link>https://CrispLab.github.io/tags/transposable-element-te/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/transposable-element-te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposable elements</title>
+      <link>https://CrispLab.github.io/tags/transposable-elements/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/transposable-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zea mays</title>
+      <link>https://CrispLab.github.io/tags/zea-mays/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/zea-mays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bisulfite sequencing</title>
+      <link>https://CrispLab.github.io/tags/bisulfite-sequencing/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/bisulfite-sequencing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epigenomics</title>
+      <link>https://CrispLab.github.io/tags/epigenomics/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/epigenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequence capture</title>
+      <link>https://CrispLab.github.io/tags/sequence-capture/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/sequence-capture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>somaclonal variation</title>
+      <link>https://CrispLab.github.io/tags/somaclonal-variation/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/somaclonal-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tissue culture</title>
+      <link>https://CrispLab.github.io/tags/tissue-culture/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/tissue-culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabidopsis</title>
+      <link>https://CrispLab.github.io/tags/arabidopsis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/arabidopsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arabidopsis thaliana</title>
+      <link>https://CrispLab.github.io/tags/arabidopsis-thaliana/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/arabidopsis-thaliana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlorophyll</title>
+      <link>https://CrispLab.github.io/tags/chlorophyll/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/chlorophyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA</title>
+      <link>https://CrispLab.github.io/tags/dna/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epigenetics</title>
+      <link>https://CrispLab.github.io/tags/epigenetics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/epigenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome</title>
+      <link>https://CrispLab.github.io/tags/genome/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light</title>
+      <link>https://CrispLab.github.io/tags/light/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NPQ</title>
+      <link>https://CrispLab.github.io/tags/npq/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/npq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photosynthesis</title>
+      <link>https://CrispLab.github.io/tags/photosynthesis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/photosynthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photosystem II Protein Complex</title>
+      <link>https://CrispLab.github.io/tags/photosystem-ii-protein-complex/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/photosystem-ii-protein-complex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physiological</title>
+      <link>https://CrispLab.github.io/tags/physiological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/physiological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant</title>
+      <link>https://CrispLab.github.io/tags/plant/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>https://CrispLab.github.io/tags/sequence-analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>https://CrispLab.github.io/tags/stress/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stress memory</title>
+      <link>https://CrispLab.github.io/tags/stress-memory/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/stress-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xanthophylls</title>
+      <link>https://CrispLab.github.io/tags/xanthophylls/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/xanthophylls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abiotic stress</title>
+      <link>https://CrispLab.github.io/tags/abiotic-stress/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/abiotic-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biogenesis</title>
+      <link>https://CrispLab.github.io/tags/biogenesis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/biogenesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://CrispLab.github.io/tags/development/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high light</title>
+      <link>https://CrispLab.github.io/tags/high-light/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/high-light/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plastid</title>
+      <link>https://CrispLab.github.io/tags/plastid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/plastid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chloroplast development</title>
+      <link>https://CrispLab.github.io/tags/chloroplast-development/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/chloroplast-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene regulation phytochrome interacting factor 4.</title>
+      <link>https://CrispLab.github.io/tags/gene-regulation-phytochrome-interacting-factor-4./</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/gene-regulation-phytochrome-interacting-factor-4./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture Techniques</title>
+      <link>https://CrispLab.github.io/tags/culture-techniques/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/culture-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant Roots</title>
+      <link>https://CrispLab.github.io/tags/plant-roots/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/plant-roots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seedling</title>
+      <link>https://CrispLab.github.io/tags/seedling/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/seedling/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

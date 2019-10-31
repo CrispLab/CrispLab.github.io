@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Marin | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/elena-marin/</link>
+      <atom:link href="https://CrispLab.github.io/authors/elena-marin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elena Marin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Elena Marin</title>
+      <link>https://CrispLab.github.io/authors/elena-marin/</link>
+    </image>
+    
+    <item>
+      <title>Evidence for a SAL1-PAP Chloroplast Retrograde Pathway That Functions in Drought and High Light Signaling in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/estavillo-evidence-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/estavillo-evidence-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel fry1 Allele Reveals the Existence of a Mutant Phenotype Unrelated to 5′-textgreater3′ Exoribonuclease (XRN) Activities in Arabidopsis thaliana Roots</title>
+      <link>https://CrispLab.github.io/publication/hirsch-novel-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/hirsch-novel-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

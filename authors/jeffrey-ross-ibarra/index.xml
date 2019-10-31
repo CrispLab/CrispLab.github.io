@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey Ross-Ibarra | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/jeffrey-ross-ibarra/</link>
+      <atom:link href="https://CrispLab.github.io/authors/jeffrey-ross-ibarra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey Ross-Ibarra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Jeffrey Ross-Ibarra</title>
+      <link>https://CrispLab.github.io/authors/jeffrey-ross-ibarra/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Decay: A Transgenerational Epigenetic Decline in Vigor and Viability Triggered in Backcross Populations of Teosinte with Maize</title>
+      <link>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize</title>
+      <link>https://CrispLab.github.io/publication/xue-hybrid-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

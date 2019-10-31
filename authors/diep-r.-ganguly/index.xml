@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diep R. Ganguly | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/diep-r.-ganguly/</link>
+      <atom:link href="https://CrispLab.github.io/authors/diep-r.-ganguly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diep R. Ganguly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Diep R. Ganguly</title>
+      <link>https://CrispLab.github.io/authors/diep-r.-ganguly/</link>
+    </image>
+    
+    <item>
+      <title>RNA Polymerase II Read-Through Promotes Expression of Neighboring Genes in SAL1-PAP-XRN Retrograde Signaling</title>
+      <link>https://CrispLab.github.io/publication/crisp-rna-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-rna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maintenance of pre-existing DNA methylation states through recurring excess-light stress</title>
+      <link>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

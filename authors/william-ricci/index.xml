@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Ricci | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/william-ricci/</link>
+      <atom:link href="https://CrispLab.github.io/authors/william-ricci/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Ricci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>William Ricci</title>
+      <link>https://CrispLab.github.io/authors/william-ricci/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring the interplay between transposable element families and DNA methylation in maize</title>
+      <link>https://CrispLab.github.io/publication/noshay-monitoring-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-monitoring-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

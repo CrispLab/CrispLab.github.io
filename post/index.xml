@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | CrispLab</title>
     <link>https://CrispLab.github.io/post/</link>
       <atom:link href="https://CrispLab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 28 Oct 2019 22:52:24 -0500</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://CrispLab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Lab Opening Feb 2020</title>
+      <link>https://CrispLab.github.io/post/lab/</link>
+      <pubDate>Mon, 28 Oct 2019 22:52:24 -0500</pubDate>
+      <guid>https://CrispLab.github.io/post/lab/</guid>
+      <description>&lt;p&gt;The lab will be opening at the &lt;a href=&#34;https://www.uq.edu.au/&#34; target=&#34;_blank&#34;&gt;University of Queensland&lt;/a&gt;, St Lucia Campus, in the &lt;a href=&#34;https://agriculture.uq.edu.au/&#34; target=&#34;_blank&#34;&gt;School of Agriculture and Food Sciences&lt;/a&gt; beginning Feb 2020. We will be looking for students! Contact me for more information.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

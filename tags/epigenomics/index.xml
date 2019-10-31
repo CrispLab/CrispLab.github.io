@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epigenomics | CrispLab</title>
+    <link>https://CrispLab.github.io/tags/epigenomics/</link>
+      <atom:link href="https://CrispLab.github.io/tags/epigenomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>epigenomics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>epigenomics</title>
+      <link>https://CrispLab.github.io/tags/epigenomics/</link>
+    </image>
+    
+    <item>
+      <title>Heritable Epigenomic Changes to the Maize Methylome Resulting from Tissue Culture</title>
+      <link>https://CrispLab.github.io/publication/han-heritable-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/han-heritable-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

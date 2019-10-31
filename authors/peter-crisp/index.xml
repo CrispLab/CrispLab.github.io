@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Crisp | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/peter-crisp/</link>
+      <atom:link href="https://CrispLab.github.io/authors/peter-crisp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Crisp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Peter Crisp</title>
+      <link>https://CrispLab.github.io/authors/peter-crisp/</link>
+    </image>
+    
+    <item>
+      <title>Learning the Languages of the Chloroplast: Retrograde Signaling and Beyond</title>
+      <link>https://CrispLab.github.io/publication/chan-learning-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/chan-learning-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic suppression of plant development and chloroplast biogenesis via the Snowy Cotyledon 3 and Phytochrome B pathways</title>
+      <link>https://CrispLab.github.io/publication/ganguly-genetic-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/ganguly-genetic-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grafting in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/bainbridge-grafting-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/bainbridge-grafting-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulation of Carotenoid Composition and Shoot Branching in Arabidopsis by a Chromatin Modifying Histone Methyltransferase, SDG8</title>
+      <link>https://CrispLab.github.io/publication/cazzonelli-regulation-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/cazzonelli-regulation-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

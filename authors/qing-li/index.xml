@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing Li | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/qing-li/</link>
+      <atom:link href="https://CrispLab.github.io/authors/qing-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Qing Li</title>
+      <link>https://CrispLab.github.io/authors/qing-li/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Decay: A Transgenerational Epigenetic Decline in Vigor and Viability Triggered in Backcross Populations of Teosinte with Maize</title>
+      <link>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize</title>
+      <link>https://CrispLab.github.io/publication/xue-hybrid-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heritable Epigenomic Changes to the Maize Methylome Resulting from Tissue Culture</title>
+      <link>https://CrispLab.github.io/publication/han-heritable-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/han-heritable-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted epigenomic changes to the maize methylome resulting from tissue culture</title>
+      <link>https://CrispLab.github.io/publication/han-targeted-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/han-targeted-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

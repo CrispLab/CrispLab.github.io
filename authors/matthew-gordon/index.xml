@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Gordon | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/matthew-gordon/</link>
+      <atom:link href="https://CrispLab.github.io/authors/matthew-gordon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Gordon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Matthew Gordon</title>
+      <link>https://CrispLab.github.io/authors/matthew-gordon/</link>
+    </image>
+    
+    <item>
+      <title>Uncoupling high light responses from singlet oxygen retrograde signaling and spatial-temporal systemic acquired acclimation in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/carmody-uncoupling-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/carmody-uncoupling-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Xun Chan | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/kai-xun-chan/</link>
+      <atom:link href="https://CrispLab.github.io/authors/kai-xun-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kai Xun Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Kai Xun Chan</title>
+      <link>https://CrispLab.github.io/authors/kai-xun-chan/</link>
+    </image>
+    
+    <item>
+      <title>A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination</title>
+      <link>https://CrispLab.github.io/publication/pornsiriwong-chloroplast-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/pornsiriwong-chloroplast-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning the Languages of the Chloroplast: Retrograde Signaling and Beyond</title>
+      <link>https://CrispLab.github.io/publication/chan-learning-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/chan-learning-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chloroplast-to-nucleus communication</title>
+      <link>https://CrispLab.github.io/publication/chan-chloroplast-nucleus-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/chan-chloroplast-nucleus-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

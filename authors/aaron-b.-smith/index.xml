@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron B. Smith | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/aaron-b.-smith/</link>
+      <atom:link href="https://CrispLab.github.io/authors/aaron-b.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron B. Smith</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Aaron B. Smith</title>
+      <link>https://CrispLab.github.io/authors/aaron-b.-smith/</link>
+    </image>
+    
+    <item>
+      <title>RNA Polymerase II Read-Through Promotes Expression of Neighboring Genes in SAL1-PAP-XRN Retrograde Signaling</title>
+      <link>https://CrispLab.github.io/publication/crisp-rna-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-rna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid recovery gene downregulation during excess-light stress and recovery in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/crisp-rapid-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-rapid-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

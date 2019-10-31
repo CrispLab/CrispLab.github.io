@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Whelan | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/jim-whelan/</link>
+      <atom:link href="https://CrispLab.github.io/authors/jim-whelan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jim Whelan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>Jim Whelan</title>
+      <link>https://CrispLab.github.io/authors/jim-whelan/</link>
+    </image>
+    
+    <item>
+      <title>Regulation of Carotenoid Composition and Shoot Branching in Arabidopsis by a Chromatin Modifying Histone Methyltransferase, SDG8</title>
+      <link>https://CrispLab.github.io/publication/cazzonelli-regulation-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/cazzonelli-regulation-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

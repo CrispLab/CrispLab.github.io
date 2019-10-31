@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photosynthesis | CrispLab</title>
+    <link>https://CrispLab.github.io/tags/photosynthesis/</link>
+      <atom:link href="https://CrispLab.github.io/tags/photosynthesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>photosynthesis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <title>photosynthesis</title>
+      <link>https://CrispLab.github.io/tags/photosynthesis/</link>
+    </image>
+    
+    <item>
+      <title>Maintenance of pre-existing DNA methylation states through recurring excess-light stress</title>
+      <link>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning the Languages of the Chloroplast: Retrograde Signaling and Beyond</title>
+      <link>https://CrispLab.github.io/publication/chan-learning-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/chan-learning-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
