@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DNA Methylation | CrispLab</title>
+    <title>DNA methylation | CrispLab</title>
     <link>https://CrispLab.github.io/tags/dna-methylation/</link>
       <atom:link href="https://CrispLab.github.io/tags/dna-methylation/index.xml" rel="self" type="application/rss+xml" />
-    <description>DNA Methylation</description>
+    <description>DNA methylation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/icon-192.png</url>
-      <title>DNA Methylation</title>
+      <title>DNA methylation</title>
       <link>https://CrispLab.github.io/tags/dna-methylation/</link>
     </image>
     
