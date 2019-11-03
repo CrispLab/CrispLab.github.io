@@ -39,13 +39,13 @@
 
 &lt;p&gt;Natural variation is a powerful resource for investigating the role of DNA methylation. However, using epigenome engineering tools including &lt;strong&gt;CRISPR&lt;/strong&gt;, we are working to generate germplasm with far greater levels of epigenetic variation.&lt;/p&gt;
 
-&lt;p&gt;Currently, in crops species with large genomes, germplasm with even moderate reductions in DNA methylation are not available, severely limiting our ability to study the role of epialleles. We are also implementing tools for locus-specific epigenome editing in monocots. Ultimately, reengineering the levels of methylation will allow us to answer fundamental questions about the function of methylation throughout crop genomes.&lt;/p&gt;
+&lt;p&gt;Currently, in crops species with large genomes, germplasm with even moderate reductions in DNA methylation are not available, severely limiting our ability to study the role of epialleles. We are also implementing tools for locus-specific epigenome editing in monocots. Ultimately, reengineering the levels of methylation will allow us to answer fundamental questions about the function of methylation throughout crop genomes. Future applications also include using epigenome engineering and synthetic biology to modulate epialleles for crop improvement.&lt;/p&gt;
 
 &lt;h2 id=&#34;cryptic-epigenetic-variation&#34;&gt;Cryptic epigenetic variation&lt;/h2&gt;
 
 &lt;p&gt;In large crop genomes there are many silent loci, including protein coding genes, which are associated with DNA methylation ​(Eichten et al., 2013)​. These loci may represent cryptic variation. The extent to which these loci are expressed in a subset of members of a species is relatively unexplored in crop genomics due to the historical costs of sequencing technologies.&lt;/p&gt;
 
-&lt;p&gt;We are identifying cryptic variation in barley using a comparative genomics in combination with the introduction of epigenome engineering tools. In the longer term we will use these varieties to develop Epigenetic Recombinant Inbred Lines (epiRILs) to uncover cryptic epialleles associated with trait variation through activating silent parts of the genome.&lt;/p&gt;
+&lt;p&gt;We are identifying cryptic variation in barley using comparative (epi)genomics in combination with the introduction of epigenome engineering tools. In the longer term we will use these varieties to develop Epigenetic Recombinant Inbred Lines (epiRILs) to uncover cryptic epialleles associated with trait variation through activating silent parts of the genome.&lt;/p&gt;
 </description>
     </item>
     
@@ -68,7 +68,7 @@
 
 &lt;p&gt;As a second novel avenue towards enhancing stress resilience, we are investigating the tension between plant stress memory and recovery. This is an on going colaboration with the &lt;a href=&#34;https://biology.anu.edu.au/research/groups/pogson-group-chloroplast-nuclear-signalling-light-drought-and-carotenoids&#34; target=&#34;_blank&#34;&gt;Pogson Lab, ANU&lt;/a&gt;. We have found that the transcriptome recovers from light-stress with incredible speed ​(Crisp et al., 2017)​. Our future interest is in examining whether various crops, including C3 (barley) and C4 (maize), also have mechanisms for rapid transcriptome recovery from light-stress.&lt;/p&gt;
 
-&lt;p&gt;Extending prior work, we are constructing gene regulatory networks (GRNs) using RNA-seq from light-stress recovery time courses to identify factors important for both rapid deactivation of stress responses and for re-activation of growth and productivity. These factors, for instance key transcription factors or signaling pathway genes, will be targeted for detailed reverse genetic characterization.&lt;/p&gt;
+&lt;p&gt;Extending prior work, we are constructing gene regulatory networks (GRNs) using RNA-seq from light-stress recovery time courses to identify factors important for both rapid deactivation of stress responses and for re-activation of growth and productivity. These factors; for instance, key transcription factors or signaling pathway genes, will be targeted for detailed reverse genetic characterization.&lt;/p&gt;
 </description>
     </item>
     
@@ -77,17 +77,17 @@
       <link>https://CrispLab.github.io/project/umr-distilling-functional-elements/</link>
       <pubDate>Mon, 28 Oct 2019 23:18:31 -0500</pubDate>
       <guid>https://CrispLab.github.io/project/umr-distilling-functional-elements/</guid>
-      <description>&lt;p&gt;Using epigenomic signatures to discover &amp;lsquo;functional&amp;rsquo; and regulatory elements in large crop genomes&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Using epigenomic signatures to discover &amp;lsquo;functional&amp;rsquo; and regulatory elements in large crop genomes&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Many crops have incredibly large genomes, ranging from the modest 730 megabases (Mb) sorghum genome to the massive 17,000 Mb hexaploid wheat genome. Yet, recently developed technologies have enabled even the larger genomes to be completely sequenced and have provided unprecedented insights into the number, form and function of their genes and the landscape of their chromosomes.&lt;/p&gt;
 
 &lt;p&gt;The identification of sequences of protein-coding genes and non-coding RNAs, with their associated promoter, terminator and intron sequences, has become relatively straightforward and accurate. However, it is becoming increasingly clear that there are other regions within the genome that play an enormous role in regulating and coordinating gene expression. These regions are not easily identified bioinformatically, as they are often located a considerable distance from their target genes and do not have readily-distinguishable sequences.&lt;/p&gt;
 
-&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34; target=&#34;_blank&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34; target=&#34;_blank&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; &lt;a href=&#34;https://maizeumn.github.io/&#34; target=&#34;_blank&#34;&gt;Springer lab&lt;/a&gt;, UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes.&lt;/p&gt;
+&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34; target=&#34;_blank&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34; target=&#34;_blank&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; &lt;a href=&#34;https://maizeumn.github.io/&#34; target=&#34;_blank&#34;&gt;Springer lab&lt;/a&gt;, UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes. Key elements can then be targeted for crop improvement using CRISPR and other genome editing approaches.&lt;/p&gt;
 
 &lt;p&gt;In this project, we are leveraging the resources of ​N. benthamiana (tobacco), which is peerless in its amenability to functional validation work (eg CRISPR) and transient expression analysis; in combination with methylC-seq, ATAC-seq, STARR-seq and RNA-seq.&lt;/p&gt;
 
-&lt;p&gt;This project will focus on ​N. benthamiana and maize, with further opportunities for work in sorghum and barley&amp;hellip; and many other species.&lt;/p&gt;
+&lt;p&gt;This project will initially focus on ​N. benthamiana and maize, however, there are tremendous opportunities for direct application in many crop species including work in sorghum and barley.&lt;/p&gt;
 </description>
     </item>
     
