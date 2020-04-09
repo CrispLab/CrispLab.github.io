@@ -3,7 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://CrispLab.github.io/</loc>
+    <lastmod>2020-04-08T17:36:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/post/phd_position/</loc>
+    <lastmod>2020-04-08T17:36:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/post/</loc>
+    <lastmod>2020-04-08T17:36:36+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/post/lab_open/</loc>
+    <lastmod>2020-04-08T17:33:57+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://CrispLab.github.io/publication_types/2/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/abscisic-acid-aba/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/epigenetic/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/ji-huang/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/karen-m.-mcginnis/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/mediator-of-paramutation1-mop1/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/peter-a.-crisp/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/sirnas/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/stefania-vendramin/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/thelma-f.-madzima/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/zea-mays/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/acclimation/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/andrew-p.-scafaro/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/authors/</loc>
+    <loc>https://CrispLab.github.io/authors/barry-j.-pogson/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +148,47 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/</loc>
+    <loc>https://CrispLab.github.io/tags/cold/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/cytochrome-c-oxidase-cox/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/david-a.-day/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/fatimah-azzahra-ahmad-rashid/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/tags/heat/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/james-whelan/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/josette-masle/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://CrispLab.github.io/authors/kerrie-w.-barry/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/publication/rashid-molecular-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +203,16 @@
   </url>
   
   <url>
+    <loc>https://CrispLab.github.io/authors/oliver-berkowitz/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/owen-k.-atkin/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://CrispLab.github.io/authors/peng-zhou/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -73,12 +223,12 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/publication_types/</loc>
+    <loc>https://CrispLab.github.io/tags/photosynthesis/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/publication/</loc>
+    <loc>https://CrispLab.github.io/tags/respiration/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +238,32 @@
   </url>
   
   <url>
+    <loc>https://CrispLab.github.io/tags/rice/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/roderick-c.-dewar/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://CrispLab.github.io/authors/shawn-m.-kaeppler/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://CrispLab.github.io/tags/thermal-stress/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://CrispLab.github.io/publication/crisp-variation-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CrispLab.github.io/authors/you-zhang/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,11 +293,6 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/post/</loc>
-    <lastmod>2019-10-28T22:52:24-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://CrispLab.github.io/authors/candice-n.-hirsch/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -144,11 +309,6 @@
   
   <url>
     <loc>https://CrispLab.github.io/tags/dna-methylation/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CrispLab.github.io/tags/epigenetic/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,11 +393,6 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/authors/peter-a.-crisp/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://CrispLab.github.io/tags/plant-genomics/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -264,11 +419,6 @@
   
   <url>
     <loc>https://CrispLab.github.io/tags/srnas/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CrispLab.github.io/tags/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,11 +463,6 @@
   </url>
   
   <url>
-    <loc>https://CrispLab.github.io/tags/zea-mays/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://CrispLab.github.io/authors/zefu-lu/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -339,11 +484,6 @@
   
   <url>
     <loc>https://CrispLab.github.io/authors/anthony-a.-millar/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CrispLab.github.io/authors/barry-j.-pogson/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -454,11 +594,6 @@
   
   <url>
     <loc>https://CrispLab.github.io/tags/npq/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CrispLab.github.io/tags/photosynthesis/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -839,11 +974,6 @@
   
   <url>
     <loc>https://CrispLab.github.io/authors/helene-javot/</loc>
-    <lastmod>2011-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CrispLab.github.io/authors/james-whelan/</loc>
     <lastmod>2011-11-01T00:00:00+00:00</lastmod>
   </url>
   

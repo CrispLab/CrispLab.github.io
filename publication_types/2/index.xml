@@ -5,12 +5,28 @@
     <link>https://CrispLab.github.io/publication_types/2/</link>
       <atom:link href="https://CrispLab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>2</title>
       <link>https://CrispLab.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Epigenetic Regulation of ABA-Induced Transcriptional Responses in Maize</title>
+      <link>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular and physiological responses during thermal acclimation of leaf photosynthesis and respiration in rice</title>
+      <link>https://CrispLab.github.io/publication/rashid-molecular-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/rashid-molecular-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variation and inheritance of small RNAs in maize inbreds and F1 hybrids</title>

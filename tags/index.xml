@@ -5,12 +5,116 @@
     <link>https://CrispLab.github.io/tags/</link>
       <atom:link href="https://CrispLab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Tags</title>
       <link>https://CrispLab.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Abscisic acid (ABA)</title>
+      <link>https://CrispLab.github.io/tags/abscisic-acid-aba/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/abscisic-acid-aba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epigenetic</title>
+      <link>https://CrispLab.github.io/tags/epigenetic/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediator of paramutation1 (MOP1)</title>
+      <link>https://CrispLab.github.io/tags/mediator-of-paramutation1-mop1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/mediator-of-paramutation1-mop1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>siRNAs</title>
+      <link>https://CrispLab.github.io/tags/sirnas/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/sirnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zea mays</title>
+      <link>https://CrispLab.github.io/tags/zea-mays/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/zea-mays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acclimation</title>
+      <link>https://CrispLab.github.io/tags/acclimation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/acclimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cold</title>
+      <link>https://CrispLab.github.io/tags/cold/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/cold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cytochrome c oxidase (COX)</title>
+      <link>https://CrispLab.github.io/tags/cytochrome-c-oxidase-cox/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/cytochrome-c-oxidase-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heat</title>
+      <link>https://CrispLab.github.io/tags/heat/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photosynthesis</title>
+      <link>https://CrispLab.github.io/tags/photosynthesis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/photosynthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>respiration</title>
+      <link>https://CrispLab.github.io/tags/respiration/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/respiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rice</title>
+      <link>https://CrispLab.github.io/tags/rice/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thermal stress</title>
+      <link>https://CrispLab.github.io/tags/thermal-stress/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/thermal-stress/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chromatin</title>
@@ -29,18 +133,10 @@
     </item>
     
     <item>
-      <title>DNA methylation</title>
+      <title>DNA Methylation</title>
       <link>https://CrispLab.github.io/tags/dna-methylation/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/dna-methylation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epigenetic</title>
-      <link>https://CrispLab.github.io/tags/epigenetic/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/tags/epigenetic/</guid>
       <description></description>
     </item>
     
@@ -61,7 +157,7 @@
     </item>
     
     <item>
-      <title>Maize</title>
+      <title>maize</title>
       <link>https://CrispLab.github.io/tags/maize/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/maize/</guid>
@@ -113,14 +209,6 @@
       <link>https://CrispLab.github.io/tags/transposable-elements/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/transposable-elements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zea mays</title>
-      <link>https://CrispLab.github.io/tags/zea-mays/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/tags/zea-mays/</guid>
       <description></description>
     </item>
     
@@ -225,14 +313,6 @@
       <link>https://CrispLab.github.io/tags/npq/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/npq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>photosynthesis</title>
-      <link>https://CrispLab.github.io/tags/photosynthesis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/tags/photosynthesis/</guid>
       <description></description>
     </item>
     

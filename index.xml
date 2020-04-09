@@ -5,12 +5,62 @@
     <link>https://CrispLab.github.io/</link>
       <atom:link href="https://CrispLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CrispLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 08 Apr 2020 17:36:36 +1000</lastBuildDate>
     <image>
-      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>CrispLab</title>
       <link>https://CrispLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>PhD position available on crop epigenomics and enhancers</title>
+      <link>https://CrispLab.github.io/post/phd_position/</link>
+      <pubDate>Wed, 08 Apr 2020 17:36:36 +1000</pubDate>
+      <guid>https://CrispLab.github.io/post/phd_position/</guid>
+      <description>&lt;p&gt;We have a funded PhD scholarship opportunity in the lab. Check out the details in this post or get in contact for more information.&lt;/p&gt;
+
+&lt;p&gt;The Scholarship is officially listed on the &lt;a href=&#34;https://graduate-school.uq.edu.au/phd-scholarships-science&#34; target=&#34;_blank&#34;&gt;UQ Graduate School page&lt;/a&gt; search for Peter Crisp.&lt;/p&gt;
+
+&lt;p&gt;The position is a fully funded PhD scholarship for a domestic or international student (stipend + tuition + health cover). More details on the scholarship scheme can be found here on the UQ Graduate School &lt;a href=&#34;https://scholarships.uq.edu.au/scholarship/earmarked-scholarships-support-category-1-project-grants#qt-scholarship_tabs-foundation-tabs-1&#34; target=&#34;_blank&#34;&gt;Earmarked Scholarship page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Full description below:&lt;/p&gt;
+
+&lt;p&gt;Title: Using epigenomics to discover hidden genetic control elements for crop improvement&lt;/p&gt;
+
+&lt;p&gt;Sustainable, productive agricultural processes are essential for tackling the challenges of tomorrow’s world. The ability to optimise beneficial agricultural traits depends on the precise control of genes in a crop plant’s enormous genome. Yet, identifying valuable gene control regions – also known as cis-regulatory elements – is like looking for needles in a haystack. The location of these regions is often not obvious and current detection technologies are impractically expensive and intensive. This PhD project aims to refine and implement a new technology, based on epigenomic profiling, that is expected to facilitate rapid and cost-effective discovery of all the control regions in a genome, enhancing our understanding of crop genomes and unlocking new avenues for agricultural improvement.&lt;/p&gt;
+
+&lt;p&gt;In this PhD project, the successful candidate will create and analyse genome-wide maps of candidate gene control regions (cis-regulatory elements) using epigenome profiling and next generation sequencing in cereal crops; for instance, barley, sorghum, wheat, rice, and maize. The functionality of select regulatory elements will be tested using traditional reporter assays in combination with massively parallel reporter assays (eg STARR-seq). This project will test our ability to utilise these regulatory maps to create new traits, by gene editing select regulatory elements using CRISPR. There will be opportunities to work in model species such as Nicotiana benthamiana as well as translational work in crops.&lt;/p&gt;
+
+&lt;p&gt;Candidates should have an Honours degree, Masters by research, Masters by coursework or equivalent in Plant Biology or Plant Genetics, Biotechnology, Molecular Biology or a related field. Experience in cloning or plant transformation will be highly regarded. Candidates interested in learning and performing bioinformatic analyses are encouraged to apply; prior computational experience not required. Please contact the Dr Peter Crisp to check on this project&amp;rsquo;s availability.&lt;/p&gt;
+
+&lt;p&gt;*The successful candidate must commence by Research Quarter 1, 2021. You should apply at least 3 months prior to the research quarter commencement date. Due to time constraints, only Domestic and on-shore International applicants will be considered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Lab Opened</title>
+      <link>https://CrispLab.github.io/post/lab_open/</link>
+      <pubDate>Wed, 08 Apr 2020 17:33:57 +1000</pubDate>
+      <guid>https://CrispLab.github.io/post/lab_open/</guid>
+      <description>&lt;p&gt;There has been a lot going on lately&amp;hellip; including the grand opening of the Lab. We are here! Excited to be at UQ. Located in the John Hines Building, St Lucia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epigenetic Regulation of ABA-Induced Transcriptional Responses in Maize</title>
+      <link>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular and physiological responses during thermal acclimation of leaf photosynthesis and respiration in rice</title>
+      <link>https://CrispLab.github.io/publication/rashid-molecular-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/rashid-molecular-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variation and inheritance of small RNAs in maize inbreds and F1 hybrids</title>

@@ -5,18 +5,74 @@
     <link>https://CrispLab.github.io/authors/</link>
       <atom:link href="https://CrispLab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CrispLab.github.io/img/icon-192.png</url>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Authors</title>
       <link>https://CrispLab.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Ji Huang</title>
+      <link>https://CrispLab.github.io/authors/ji-huang/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/ji-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karen M. McGinnis</title>
+      <link>https://CrispLab.github.io/authors/karen-m.-mcginnis/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/karen-m.-mcginnis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter A. Crisp</title>
+      <link>https://CrispLab.github.io/authors/peter-a.-crisp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/peter-a.-crisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefania Vendramin</title>
+      <link>https://CrispLab.github.io/authors/stefania-vendramin/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/stefania-vendramin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thelma F. Madzima</title>
+      <link>https://CrispLab.github.io/authors/thelma-f.-madzima/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/thelma-f.-madzima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew P. Scafaro</title>
+      <link>https://CrispLab.github.io/authors/andrew-p.-scafaro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/andrew-p.-scafaro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anna M. Lipzen</title>
       <link>https://CrispLab.github.io/authors/anna-m.-lipzen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/anna-m.-lipzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barry J. Pogson</title>
+      <link>https://CrispLab.github.io/authors/barry-j.-pogson/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/barry-j.-pogson/</guid>
       <description></description>
     </item>
     
@@ -61,6 +117,38 @@
     </item>
     
     <item>
+      <title>David A. Day</title>
+      <link>https://CrispLab.github.io/authors/david-a.-day/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/david-a.-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatimah Azzahra Ahmad Rashid</title>
+      <link>https://CrispLab.github.io/authors/fatimah-azzahra-ahmad-rashid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/fatimah-azzahra-ahmad-rashid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Whelan</title>
+      <link>https://CrispLab.github.io/authors/james-whelan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/james-whelan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josette Masle</title>
+      <link>https://CrispLab.github.io/authors/josette-masle/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/josette-masle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kerrie W. Barry</title>
       <link>https://CrispLab.github.io/authors/kerrie-w.-barry/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -81,6 +169,22 @@
       <link>https://CrispLab.github.io/authors/nathan-m.-springer/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/nathan-m.-springer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oliver Berkowitz</title>
+      <link>https://CrispLab.github.io/authors/oliver-berkowitz/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/oliver-berkowitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owen K. Atkin</title>
+      <link>https://CrispLab.github.io/authors/owen-k.-atkin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/owen-k.-atkin/</guid>
       <description></description>
     </item>
     
@@ -109,10 +213,26 @@
     </item>
     
     <item>
+      <title>Roderick C. Dewar</title>
+      <link>https://CrispLab.github.io/authors/roderick-c.-dewar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/roderick-c.-dewar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Shawn M. Kaeppler</title>
       <link>https://CrispLab.github.io/authors/shawn-m.-kaeppler/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/shawn-m.-kaeppler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You Zhang</title>
+      <link>https://CrispLab.github.io/authors/you-zhang/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/authors/you-zhang/</guid>
       <description></description>
     </item>
     
@@ -201,14 +321,6 @@
       <link>https://CrispLab.github.io/authors/paul-bilinski/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/paul-bilinski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peter A. Crisp</title>
-      <link>https://CrispLab.github.io/authors/peter-a.-crisp/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/authors/peter-a.-crisp/</guid>
       <description></description>
     </item>
     
@@ -305,14 +417,6 @@
       <link>https://CrispLab.github.io/authors/anthony-a.-millar/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/anthony-a.-millar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barry J. Pogson</title>
-      <link>https://CrispLab.github.io/authors/barry-j.-pogson/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/authors/barry-j.-pogson/</guid>
       <description></description>
     </item>
     
@@ -729,14 +833,6 @@
       <link>https://CrispLab.github.io/authors/helene-javot/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/authors/helene-javot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Whelan</title>
-      <link>https://CrispLab.github.io/authors/james-whelan/</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/authors/james-whelan/</guid>
       <description></description>
     </item>
     
