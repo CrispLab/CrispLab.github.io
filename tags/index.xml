@@ -5,12 +5,36 @@
     <link>https://CrispLab.github.io/tags/</link>
       <atom:link href="https://CrispLab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Tags</title>
       <link>https://CrispLab.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>chromatin accessibility</title>
+      <link>https://CrispLab.github.io/tags/chromatin-accessibility/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/chromatin-accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cis-regulatory elements</title>
+      <link>https://CrispLab.github.io/tags/cis-regulatory-elements/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/cis-regulatory-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation</title>
+      <link>https://CrispLab.github.io/tags/dna-methylation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/dna-methylation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abscisic acid (ABA)</title>
@@ -69,6 +93,14 @@
     </item>
     
     <item>
+      <title>CRISPR/Cas9</title>
+      <link>https://CrispLab.github.io/tags/crispr/cas9/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/crispr/cas9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cytochrome c oxidase (COX)</title>
       <link>https://CrispLab.github.io/tags/cytochrome-c-oxidase-cox/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -81,6 +113,22 @@
       <link>https://CrispLab.github.io/tags/heat/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/heat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplexed genome editing</title>
+      <link>https://CrispLab.github.io/tags/multiplexed-genome-editing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/multiplexed-genome-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NHEJ and MMEJ DNA repair</title>
+      <link>https://CrispLab.github.io/tags/nhej-and-mmej-dna-repair/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/nhej-and-mmej-dna-repair/</guid>
       <description></description>
     </item>
     
@@ -109,10 +157,26 @@
     </item>
     
     <item>
+      <title>Setaria viridis</title>
+      <link>https://CrispLab.github.io/tags/setaria-viridis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/setaria-viridis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>thermal stress</title>
       <link>https://CrispLab.github.io/tags/thermal-stress/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/thermal-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trex2 exonuclease</title>
+      <link>https://CrispLab.github.io/tags/trex2-exonuclease/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/tags/trex2-exonuclease/</guid>
       <description></description>
     </item>
     
@@ -129,14 +193,6 @@
       <link>https://CrispLab.github.io/tags/cnvs/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/tags/cnvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DNA Methylation</title>
-      <link>https://CrispLab.github.io/tags/dna-methylation/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/tags/dna-methylation/</guid>
       <description></description>
     </item>
     

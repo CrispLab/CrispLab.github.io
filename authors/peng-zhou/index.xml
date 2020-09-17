@@ -5,12 +5,44 @@
     <link>https://CrispLab.github.io/authors/peng-zhou/</link>
       <atom:link href="https://CrispLab.github.io/authors/peng-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Peng Zhou</title>
       <link>https://CrispLab.github.io/authors/peng-zhou/</link>
     </image>
+    
+    <item>
+      <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
+      <link>https://CrispLab.github.io/publication/crisp-stable-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-stable-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cis-regulatory elements within TEs can influence expression of nearby maize genes</title>
+      <link>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Gene Regulatory Networks in Maize Highlight Functionally Relevant Regulatory Interactions</title>
+      <link>https://CrispLab.github.io/publication/zhou-meta-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-meta-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of multiplexed CRISPR/Cas9 system for highly efficient genome editing in Setaria viridis</title>
+      <link>https://CrispLab.github.io/publication/weiss-optimization-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/weiss-optimization-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Variation and inheritance of small RNAs in maize inbreds and F1 hybrids</title>

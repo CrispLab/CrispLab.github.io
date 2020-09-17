@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiplexed genome editing | CrispLab</title>
+    <link>https://CrispLab.github.io/tags/multiplexed-genome-editing/</link>
+      <atom:link href="https://CrispLab.github.io/tags/multiplexed-genome-editing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multiplexed genome editing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Multiplexed genome editing</title>
+      <link>https://CrispLab.github.io/tags/multiplexed-genome-editing/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of multiplexed CRISPR/Cas9 system for highly efficient genome editing in Setaria viridis</title>
+      <link>https://CrispLab.github.io/publication/weiss-optimization-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/weiss-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minqi Li | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/minqi-li/</link>
+      <atom:link href="https://CrispLab.github.io/authors/minqi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minqi Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Minqi Li</title>
+      <link>https://CrispLab.github.io/authors/minqi-li/</link>
+    </image>
+    
+    <item>
+      <title>Population-level analysis reveals the widespread occurrence and phenotypic consequence of DNA methylation variation not tagged by genetic variation in maize</title>
+      <link>https://CrispLab.github.io/publication/xu-population-level-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xu-population-level-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

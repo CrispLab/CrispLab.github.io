@@ -5,12 +5,36 @@
     <link>https://CrispLab.github.io/</link>
       <atom:link href="https://CrispLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CrispLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 08 Apr 2020 17:36:36 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>CrispLab</title>
       <link>https://CrispLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
+      <link>https://CrispLab.github.io/publication/crisp-stable-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-stable-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and epigenetic contributions to variation in transposable element expression responses to abiotic stress in maize</title>
+      <link>https://CrispLab.github.io/publication/liang-genetic-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/liang-genetic-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cis-regulatory elements within TEs can influence expression of nearby maize genes</title>
+      <link>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PhD position available on crop epigenomics and enhancers</title>
@@ -55,6 +79,14 @@
     </item>
     
     <item>
+      <title>Meta Gene Regulatory Networks in Maize Highlight Functionally Relevant Regulatory Interactions</title>
+      <link>https://CrispLab.github.io/publication/zhou-meta-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-meta-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Molecular and physiological responses during thermal acclimation of leaf photosynthesis and respiration in rice</title>
       <link>https://CrispLab.github.io/publication/rashid-molecular-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -63,10 +95,26 @@
     </item>
     
     <item>
+      <title>Optimization of multiplexed CRISPR/Cas9 system for highly efficient genome editing in Setaria viridis</title>
+      <link>https://CrispLab.github.io/publication/weiss-optimization-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/weiss-optimization-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variation and inheritance of small RNAs in maize inbreds and F1 hybrids</title>
       <link>https://CrispLab.github.io/publication/crisp-variation-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/publication/crisp-variation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-level analysis reveals the widespread occurrence and phenotypic consequence of DNA methylation variation not tagged by genetic variation in maize</title>
+      <link>https://CrispLab.github.io/publication/xu-population-level-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/xu-population-level-2019/</guid>
       <description></description>
     </item>
     

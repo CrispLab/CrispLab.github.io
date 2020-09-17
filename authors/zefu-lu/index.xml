@@ -5,12 +5,28 @@
     <link>https://CrispLab.github.io/authors/zefu-lu/</link>
       <atom:link href="https://CrispLab.github.io/authors/zefu-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zefu Lu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Zefu Lu</title>
       <link>https://CrispLab.github.io/authors/zefu-lu/</link>
     </image>
+    
+    <item>
+      <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
+      <link>https://CrispLab.github.io/publication/crisp-stable-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-stable-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cis-regulatory elements within TEs can influence expression of nearby maize genes</title>
+      <link>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monitoring the interplay between transposable element families and DNA methylation in maize</title>
