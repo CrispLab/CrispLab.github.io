@@ -42,21 +42,13 @@
       <pubDate>Wed, 08 Apr 2020 17:36:36 +1000</pubDate>
       <guid>https://CrispLab.github.io/post/phd_position/</guid>
       <description>&lt;p&gt;We have a funded PhD scholarship opportunity in the lab. Check out the details in this post or get in contact for more information.&lt;/p&gt;
-
-&lt;p&gt;The Scholarship is officially listed on the &lt;a href=&#34;https://graduate-school.uq.edu.au/phd-scholarships-science&#34; target=&#34;_blank&#34;&gt;UQ Graduate School page&lt;/a&gt; search for Peter Crisp.&lt;/p&gt;
-
-&lt;p&gt;The position is a fully funded PhD scholarship for a domestic or international student (stipend + tuition + health cover). More details on the scholarship scheme can be found here on the UQ Graduate School &lt;a href=&#34;https://scholarships.uq.edu.au/scholarship/earmarked-scholarships-support-category-1-project-grants#qt-scholarship_tabs-foundation-tabs-1&#34; target=&#34;_blank&#34;&gt;Earmarked Scholarship page&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;The Scholarship is officially listed on the &lt;a href=&#34;https://graduate-school.uq.edu.au/phd-scholarships-science&#34;&gt;UQ Graduate School page&lt;/a&gt; search for Peter Crisp.&lt;/p&gt;
+&lt;p&gt;The position is a fully funded PhD scholarship for a domestic or international student (stipend + tuition + health cover). More details on the scholarship scheme can be found here on the UQ Graduate School &lt;a href=&#34;https://scholarships.uq.edu.au/scholarship/earmarked-scholarships-support-category-1-project-grants#qt-scholarship_tabs-foundation-tabs-1&#34;&gt;Earmarked Scholarship page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Full description below:&lt;/p&gt;
-
 &lt;p&gt;Title: Using epigenomics to discover hidden genetic control elements for crop improvement&lt;/p&gt;
-
 &lt;p&gt;Sustainable, productive agricultural processes are essential for tackling the challenges of tomorrow’s world. The ability to optimise beneficial agricultural traits depends on the precise control of genes in a crop plant’s enormous genome. Yet, identifying valuable gene control regions – also known as cis-regulatory elements – is like looking for needles in a haystack. The location of these regions is often not obvious and current detection technologies are impractically expensive and intensive. This PhD project aims to refine and implement a new technology, based on epigenomic profiling, that is expected to facilitate rapid and cost-effective discovery of all the control regions in a genome, enhancing our understanding of crop genomes and unlocking new avenues for agricultural improvement.&lt;/p&gt;
-
 &lt;p&gt;In this PhD project, the successful candidate will create and analyse genome-wide maps of candidate gene control regions (cis-regulatory elements) using epigenome profiling and next generation sequencing in cereal crops; for instance, barley, sorghum, wheat, rice, and maize. The functionality of select regulatory elements will be tested using traditional reporter assays in combination with massively parallel reporter assays (eg STARR-seq). This project will test our ability to utilise these regulatory maps to create new traits, by gene editing select regulatory elements using CRISPR. There will be opportunities to work in model species such as Nicotiana benthamiana as well as translational work in crops.&lt;/p&gt;
-
 &lt;p&gt;Candidates should have an Honours degree, Masters by research, Masters by coursework or equivalent in Plant Biology or Plant Genetics, Biotechnology, Molecular Biology or a related field. Experience in cloning or plant transformation will be highly regarded. Candidates interested in learning and performing bioinformatic analyses are encouraged to apply; prior computational experience not required. Please contact the Dr Peter Crisp to check on this project&amp;rsquo;s availability.&lt;/p&gt;
-
 &lt;p&gt;*The successful candidate must commence by Research Quarter 1, 2021. You should apply at least 3 months prior to the research quarter commencement date. Due to time constraints, only Domestic and on-shore International applicants will be considered.&lt;/p&gt;
 </description>
     </item>
@@ -123,26 +115,15 @@
       <link>https://CrispLab.github.io/project/crop_epigenetics/</link>
       <pubDate>Wed, 30 Oct 2019 21:35:22 -0500</pubDate>
       <guid>https://CrispLab.github.io/project/crop_epigenetics/</guid>
-      <description>
-
-&lt;h2 id=&#34;epigenetic-inheritance&#34;&gt;Epigenetic inheritance&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;epigenetic-inheritance&#34;&gt;Epigenetic inheritance&lt;/h2&gt;
 &lt;p&gt;Technological advances in sequencing throughput and epigenome editing are enabling us to now readdress fundamental unanswered questions concerning the inheritance, stability, variation and functional relevance of epialleles in large crop genomes. Such investigations are having a profound impact on our understanding and the utility of epigenetic information for agriculture.&lt;/p&gt;
-
 &lt;p&gt;A major focus of our research is characterizing the inheritance patterns of DNA methylation and other epialleles, which contribute to the unexpected and non-mendelian inheritance of traits. We recently studied in detail maize plants that were passed through tissue culture (eg for transformation) and found accumulation of targeted, heritable changes in DNA methylation at unstable loci ​(Han et al., 2018)​. We are also continuing to study the inheritance of DNA methylation over generations in maize populations.&lt;/p&gt;
-
 &lt;p&gt;In contrast to maize, clonal horticultural species, like apple, present a unique opportunity to study and potentially exploit epigenomic regulation and inheritance within a single genetic lineage. We are tracking the inheritance and variation of epialleles in clonal apple lineages, which could relate to spontaneous variation and trait stability.&lt;/p&gt;
-
 &lt;h2 id=&#34;epigenome-engineering-in-monocot-crops&#34;&gt;Epigenome engineering in monocot crops&lt;/h2&gt;
-
 &lt;p&gt;Natural variation is a powerful resource for investigating the role of DNA methylation. However, using epigenome engineering tools including &lt;strong&gt;CRISPR&lt;/strong&gt;, we are working to generate germplasm with far greater levels of epigenetic variation.&lt;/p&gt;
-
 &lt;p&gt;Currently, in crops species with large genomes, germplasm with even moderate reductions in DNA methylation are not available, severely limiting our ability to study the role of epialleles. We are also implementing tools for locus-specific epigenome editing in monocots. Ultimately, reengineering the levels of methylation will allow us to answer fundamental questions about the function of methylation throughout crop genomes. Future applications also include using epigenome engineering and synthetic biology to modulate epialleles for crop improvement.&lt;/p&gt;
-
 &lt;h2 id=&#34;cryptic-epigenetic-variation&#34;&gt;Cryptic epigenetic variation&lt;/h2&gt;
-
 &lt;p&gt;In large crop genomes there are many silent loci, including protein coding genes, which are associated with DNA methylation ​(Eichten et al., 2013)​. These loci may represent cryptic variation. The extent to which these loci are expressed in a subset of members of a species is relatively unexplored in crop genomics due to the historical costs of sequencing technologies.&lt;/p&gt;
-
 &lt;p&gt;We are identifying cryptic variation in barley using comparative (epi)genomics in combination with the introduction of epigenome engineering tools. In the longer term we will use these varieties to develop Epigenetic Recombinant Inbred Lines (epiRILs) to uncover cryptic epialleles associated with trait variation through activating silent parts of the genome.&lt;/p&gt;
 </description>
     </item>
@@ -152,20 +133,12 @@
       <link>https://CrispLab.github.io/project/stress/</link>
       <pubDate>Wed, 30 Oct 2019 20:37:49 -0500</pubDate>
       <guid>https://CrispLab.github.io/project/stress/</guid>
-      <description>
-
-&lt;p&gt;Our research focuses on the interface between epigenomics and plant memory. This research area addresses key challenges identified in the &lt;a href=&#34;https://plantsummit.files.wordpress.com/2013/07/plantsciencedecadalvision10-18-13.pdf&#34; target=&#34;_blank&#34;&gt;decadal vision for Plant Sciences&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;p&gt;Our research focuses on the interface between epigenomics and plant memory. This research area addresses key challenges identified in the &lt;a href=&#34;https://plantsummit.files.wordpress.com/2013/07/plantsciencedecadalvision10-18-13.pdf&#34;&gt;decadal vision for Plant Sciences&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The possible roles of epigenetics in environmental responses are hotly debated. While plants clearly retain some memories of past experiences, the extent to which the environment leads to heritable changes in the epigenome is unresolved ​(Mirouze and Paszkowski, 2011)​. Despite expectations, the epigenome, in particular DNA methylation, is particularly resistant to many environmental perturbations ​(Crisp et al., 2016). We have demonstrated that DNA methylation is unresponsive to multiple stresses ​(Ganguly et al., 2017, 2018)​. One possibility is that rapid recovery mechanisms preclude lasting imprints of stress.&lt;/p&gt;
-
 &lt;h2 id=&#34;cryptic-stress-resilience-epialleles&#34;&gt;Cryptic stress resilience epialleles&lt;/h2&gt;
-
 &lt;p&gt;While DNA methylation may be relatively impervious to stress, beneficial but non-essential stress resilience alleles may have become silenced by DNA methylation over time. We hypothesise that stress resilience traits may be enriched among the cryptic epiallele variants. We aim to identify and characterize cryptic stress resilience traits using comparative genomics tools and epiRIL populations is crops such as barley and sorghum.&lt;/p&gt;
-
 &lt;h2 id=&#34;stress-recovery-in-crops&#34;&gt;Stress recovery in crops&lt;/h2&gt;
-
-&lt;p&gt;As a second novel avenue towards enhancing stress resilience, we are investigating the tension between plant stress memory and recovery. This is an on going colaboration with the &lt;a href=&#34;https://biology.anu.edu.au/research/groups/pogson-group-chloroplast-nuclear-signalling-light-drought-and-carotenoids&#34; target=&#34;_blank&#34;&gt;Pogson Lab, ANU&lt;/a&gt;. We have found that the transcriptome recovers from light-stress with incredible speed ​(Crisp et al., 2017)​. Our future interest is in examining whether various crops, including C3 (barley) and C4 (maize), also have mechanisms for rapid transcriptome recovery from light-stress.&lt;/p&gt;
-
+&lt;p&gt;As a second novel avenue towards enhancing stress resilience, we are investigating the tension between plant stress memory and recovery. This is an on going colaboration with the &lt;a href=&#34;https://biology.anu.edu.au/research/groups/pogson-group-chloroplast-nuclear-signalling-light-drought-and-carotenoids&#34;&gt;Pogson Lab, ANU&lt;/a&gt;. We have found that the transcriptome recovers from light-stress with incredible speed ​(Crisp et al., 2017)​. Our future interest is in examining whether various crops, including C3 (barley) and C4 (maize), also have mechanisms for rapid transcriptome recovery from light-stress.&lt;/p&gt;
 &lt;p&gt;Extending prior work, we are constructing gene regulatory networks (GRNs) using RNA-seq from light-stress recovery time courses to identify factors important for both rapid deactivation of stress responses and for re-activation of growth and productivity. These factors; for instance, key transcription factors or signaling pathway genes, will be targeted for detailed reverse genetic characterization.&lt;/p&gt;
 </description>
     </item>
@@ -176,15 +149,10 @@
       <pubDate>Mon, 28 Oct 2019 23:18:31 -0500</pubDate>
       <guid>https://CrispLab.github.io/project/umr-distilling-functional-elements/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Using epigenomic signatures to discover &amp;lsquo;functional&amp;rsquo; and regulatory elements in large crop genomes&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Many crops have incredibly large genomes, ranging from the modest 730 megabases (Mb) sorghum genome to the massive 17,000 Mb hexaploid wheat genome. Yet, recently developed technologies have enabled even the larger genomes to be completely sequenced and have provided unprecedented insights into the number, form and function of their genes and the landscape of their chromosomes.&lt;/p&gt;
-
 &lt;p&gt;The identification of sequences of protein-coding genes and non-coding RNAs, with their associated promoter, terminator and intron sequences, has become relatively straightforward and accurate. However, it is becoming increasingly clear that there are other regions within the genome that play an enormous role in regulating and coordinating gene expression. These regions are not easily identified bioinformatically, as they are often located a considerable distance from their target genes and do not have readily-distinguishable sequences.&lt;/p&gt;
-
-&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34; target=&#34;_blank&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34; target=&#34;_blank&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; &lt;a href=&#34;https://maizeumn.github.io/&#34; target=&#34;_blank&#34;&gt;Springer lab&lt;/a&gt;, UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes. Key elements can then be targeted for crop improvement using CRISPR and other genome editing approaches.&lt;/p&gt;
-
+&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; [Springer lab] (&lt;a href=&#34;https://maizeumn.github.io/),&#34;&gt;https://maizeumn.github.io/),&lt;/a&gt; UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes. Key elements can then be targeted for crop improvement using CRISPR and other genome editing approaches.&lt;/p&gt;
 &lt;p&gt;In this project, we are leveraging the resources of ​N. benthamiana (tobacco), which is peerless in its amenability to functional validation work (eg CRISPR) and transient expression analysis; in combination with methylC-seq, ATAC-seq, STARR-seq and RNA-seq.&lt;/p&gt;
-
 &lt;p&gt;This project will initially focus on ​N. benthamiana and maize, however, there are tremendous opportunities for direct application in many crop species including work in sorghum and barley.&lt;/p&gt;
 </description>
     </item>
@@ -194,7 +162,7 @@
       <link>https://CrispLab.github.io/post/lab/</link>
       <pubDate>Mon, 28 Oct 2019 22:52:24 -0500</pubDate>
       <guid>https://CrispLab.github.io/post/lab/</guid>
-      <description>&lt;p&gt;The lab will be opening at the &lt;a href=&#34;https://www.uq.edu.au/&#34; target=&#34;_blank&#34;&gt;University of Queensland&lt;/a&gt;, St Lucia Campus, in the &lt;a href=&#34;https://agriculture.uq.edu.au/&#34; target=&#34;_blank&#34;&gt;School of Agriculture and Food Sciences&lt;/a&gt; beginning Feb 2020. We will be looking for students! Contact me for more information.&lt;/p&gt;
+      <description>&lt;p&gt;The lab will be opening at the &lt;a href=&#34;https://www.uq.edu.au/&#34;&gt;University of Queensland&lt;/a&gt;, St Lucia Campus, in the &lt;a href=&#34;https://agriculture.uq.edu.au/&#34;&gt;School of Agriculture and Food Sciences&lt;/a&gt; beginning Feb 2020. We will be looking for students! Contact me for more information.&lt;/p&gt;
 </description>
     </item>
     
