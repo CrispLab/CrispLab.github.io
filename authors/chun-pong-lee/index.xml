@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chun Pong Lee | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/chun-pong-lee/</link>
+      <atom:link href="https://CrispLab.github.io/authors/chun-pong-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chun Pong Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Chun Pong Lee</title>
+      <link>https://CrispLab.github.io/authors/chun-pong-lee/</link>
+    </image>
+    
+    <item>
+      <title>Enzymes degraded under high light maintain proteostasis by transcriptional regulation in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/li-enzymes-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/li-enzymes-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

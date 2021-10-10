@@ -5,7 +5,7 @@
     <link>https://CrispLab.github.io/authors/peter-a.-crisp/</link>
       <atom:link href="https://CrispLab.github.io/authors/peter-a.-crisp/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter A. Crisp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Peter A. Crisp</title>
@@ -13,170 +13,10 @@
     </image>
     
     <item>
-      <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
-      <link>https://CrispLab.github.io/publication/crisp-stable-2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/crisp-stable-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic and epigenetic contributions to variation in transposable element expression responses to abiotic stress in maize</title>
-      <link>https://CrispLab.github.io/publication/liang-genetic-2020/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/liang-genetic-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cis-regulatory elements within TEs can influence expression of nearby maize genes</title>
-      <link>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/noshay-cis-regulatory-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Epigenetic Regulation of ABA-Induced Transcriptional Responses in Maize</title>
-      <link>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/vendramin-epigenetic-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular and physiological responses during thermal acclimation of leaf photosynthesis and respiration in rice</title>
-      <link>https://CrispLab.github.io/publication/rashid-molecular-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/rashid-molecular-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization of multiplexed CRISPR/Cas9 system for highly efficient genome editing in Setaria viridis</title>
-      <link>https://CrispLab.github.io/publication/weiss-optimization-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/weiss-optimization-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population-level analysis reveals the widespread occurrence and phenotypic consequence of DNA methylation variation not tagged by genetic variation in maize</title>
-      <link>https://CrispLab.github.io/publication/xu-population-level-2019/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/xu-population-level-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hybrid Decay: A Transgenerational Epigenetic Decline in Vigor and Viability Triggered in Backcross Populations of Teosinte with Maize</title>
-      <link>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring the interplay between transposable element families and DNA methylation in maize</title>
-      <link>https://CrispLab.github.io/publication/noshay-monitoring-2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/noshay-monitoring-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hybrid decay: a transgenerational epigenetic decline in vigor and viability triggered in backcross populations of teosinte with maize</title>
-      <link>https://CrispLab.github.io/publication/xue-hybrid-2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/xue-hybrid-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Opportunities to Use DNA Methylation to Distil Functional Elements in Large Crop Genomes</title>
       <link>https://CrispLab.github.io/publication/crisp-opportunities-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/publication/crisp-opportunities-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RNA Polymerase II Read-Through Promotes Expression of Neighboring Genes in SAL1-PAP-XRN Retrograde Signaling</title>
-      <link>https://CrispLab.github.io/publication/crisp-rna-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/crisp-rna-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heritable Epigenomic Changes to the Maize Methylome Resulting from Tissue Culture</title>
-      <link>https://CrispLab.github.io/publication/han-heritable-2018/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/han-heritable-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maintenance of pre-existing DNA methylation states through recurring excess-light stress</title>
-      <link>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/ganguly-maintenance-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Targeted epigenomic changes to the maize methylome resulting from tissue culture</title>
-      <link>https://CrispLab.github.io/publication/han-targeted-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/han-targeted-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Maize Methylome</title>
-      <link>https://CrispLab.github.io/publication/noshay-maize-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/noshay-maize-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A chloroplast retrograde signal, 3’-phosphoadenosine 5’-phosphate, acts as a secondary messenger in abscisic acid signaling in stomatal closure and germination</title>
-      <link>https://CrispLab.github.io/publication/pornsiriwong-chloroplast-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/pornsiriwong-chloroplast-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reconsidering plant memory: Intersections between stress recovery, RNA turnover, and epigenetics</title>
-      <link>https://CrispLab.github.io/publication/crisp-reconsidering-2016/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/crisp-reconsidering-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Subset of heat-shock transcription factors required for the early response of Arabidopsis to excess light</title>
-      <link>https://CrispLab.github.io/publication/jung-subset-2013/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/jung-subset-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evidence for a SAL1-PAP Chloroplast Retrograde Pathway That Functions in Drought and High Light Signaling in Arabidopsis</title>
-      <link>https://CrispLab.github.io/publication/estavillo-evidence-2011/</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/estavillo-evidence-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Novel fry1 Allele Reveals the Existence of a Mutant Phenotype Unrelated to 5′-textgreater3′ Exoribonuclease (XRN) Activities in Arabidopsis thaliana Roots</title>
-      <link>https://CrispLab.github.io/publication/hirsch-novel-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://CrispLab.github.io/publication/hirsch-novel-2011/</guid>
       <description></description>
     </item>
     

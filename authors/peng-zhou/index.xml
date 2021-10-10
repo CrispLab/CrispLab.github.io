@@ -5,12 +5,28 @@
     <link>https://CrispLab.github.io/authors/peng-zhou/</link>
       <atom:link href="https://CrispLab.github.io/authors/peng-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Peng Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Peng Zhou</title>
       <link>https://CrispLab.github.io/authors/peng-zhou/</link>
     </image>
+    
+    <item>
+      <title>Applying cis-regulatory codes to predict conserved and variable heat and cold stress response in maize</title>
+      <link>https://CrispLab.github.io/publication/zhou-applying-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-applying-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons</title>
+      <link>https://CrispLab.github.io/publication/noshay-assessing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-assessing-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>

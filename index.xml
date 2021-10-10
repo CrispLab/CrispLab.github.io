@@ -5,12 +5,60 @@
     <link>https://CrispLab.github.io/</link>
       <atom:link href="https://CrispLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CrispLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>CrispLab</title>
       <link>https://CrispLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Beyond the gene: epigenetic and cis-regulatory targets offer new breeding potential for the future</title>
+      <link>https://CrispLab.github.io/publication/crisp-beyond-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-beyond-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enzymes degraded under high light maintain proteostasis by transcriptional regulation in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/li-enzymes-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/li-enzymes-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current status and prospects of plant genome editing in Australia</title>
+      <link>https://CrispLab.github.io/publication/zhang-current-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhang-current-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and epigenetic variation in transposable element expression responses to abiotic stress in maize</title>
+      <link>https://CrispLab.github.io/publication/liang-genetic-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/liang-genetic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying cis-regulatory codes to predict conserved and variable heat and cold stress response in maize</title>
+      <link>https://CrispLab.github.io/publication/zhou-applying-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-applying-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons</title>
+      <link>https://CrispLab.github.io/publication/noshay-assessing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-assessing-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
@@ -144,16 +192,16 @@
     </item>
     
     <item>
-      <title>Distilling the Functional Genome</title>
+      <title>Epigenome guided crop improvement - distilling the Functional Genome</title>
       <link>https://CrispLab.github.io/project/umr-distilling-functional-elements/</link>
       <pubDate>Mon, 28 Oct 2019 23:18:31 -0500</pubDate>
       <guid>https://CrispLab.github.io/project/umr-distilling-functional-elements/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Using epigenomic signatures to discover &amp;lsquo;functional&amp;rsquo; and regulatory elements in large crop genomes&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Using epigenomic signatures to discover &amp;lsquo;functional&amp;rsquo; and cis-regulatory elements in large crop genomes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Many crops have incredibly large genomes, ranging from the modest 730 megabases (Mb) sorghum genome to the massive 17,000 Mb hexaploid wheat genome. Yet, recently developed technologies have enabled even the larger genomes to be completely sequenced and have provided unprecedented insights into the number, form and function of their genes and the landscape of their chromosomes.&lt;/p&gt;
 &lt;p&gt;The identification of sequences of protein-coding genes and non-coding RNAs, with their associated promoter, terminator and intron sequences, has become relatively straightforward and accurate. However, it is becoming increasingly clear that there are other regions within the genome that play an enormous role in regulating and coordinating gene expression. These regions are not easily identified bioinformatically, as they are often located a considerable distance from their target genes and do not have readily-distinguishable sequences.&lt;/p&gt;
-&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; [Springer lab] (&lt;a href=&#34;https://maizeumn.github.io/),&#34;&gt;https://maizeumn.github.io/),&lt;/a&gt; UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes. Key elements can then be targeted for crop improvement using CRISPR and other genome editing approaches.&lt;/p&gt;
+&lt;p&gt;Together with collaborators (&lt;a href=&#34;http://www.waterhouse-lab.com/main/index_lab.html&#34;&gt;Waterhouse lab&lt;/a&gt;, QUT, Australia; &lt;a href=&#34;http://schmitzlab.genetics.uga.edu/&#34;&gt;Schmitz Lab&lt;/a&gt;, UGA, USA; &lt;a href=&#34;https://maizeumn.github.io/&#34;&gt;Springer lab&lt;/a&gt;, UMN, USA ), we are developing a novel methodology to efficiently and affordably identify gene control regions, known as ​cis​-regulatory elements, in large genome crops. Our preliminary analysis, together with prior studies in plants, suggests that ​cis-​elements are predictably marked by a distinct lack of DNA methylation; we term these “unmethylated regions” (UMRs) ​(Crisp et al., 2019)​. We are testing the hypothesis that DNA methylation profiles can be used to efficiently identify ​cis​-elements in plant genomes. Key elements can then be targeted for crop improvement using CRISPR and other genome editing approaches.&lt;/p&gt;
 &lt;p&gt;In this project, we are leveraging the resources of ​N. benthamiana (tobacco), which is peerless in its amenability to functional validation work (eg CRISPR) and transient expression analysis; in combination with methylC-seq, ATAC-seq, STARR-seq and RNA-seq.&lt;/p&gt;
-&lt;p&gt;This project will initially focus on ​N. benthamiana and maize, however, there are tremendous opportunities for direct application in many crop species including work in sorghum and barley.&lt;/p&gt;
+&lt;p&gt;This project initially focused on ​N. benthamiana and maize, and is now expanding to realise the tremendous opportunities many other crop species including in sorghum, barley and wheat.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian D Godwin | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/ian-d-godwin/</link>
+      <atom:link href="https://CrispLab.github.io/authors/ian-d-godwin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian D Godwin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Ian D Godwin</title>
+      <link>https://CrispLab.github.io/authors/ian-d-godwin/</link>
+    </image>
+    
+    <item>
+      <title>Beyond the gene: epigenetic and cis-regulatory targets offer new breeding potential for the future</title>
+      <link>https://CrispLab.github.io/publication/crisp-beyond-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-beyond-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

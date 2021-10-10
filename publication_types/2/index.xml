@@ -5,12 +5,60 @@
     <link>https://CrispLab.github.io/publication_types/2/</link>
       <atom:link href="https://CrispLab.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>2</title>
       <link>https://CrispLab.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Beyond the gene: epigenetic and cis-regulatory targets offer new breeding potential for the future</title>
+      <link>https://CrispLab.github.io/publication/crisp-beyond-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/crisp-beyond-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enzymes degraded under high light maintain proteostasis by transcriptional regulation in Arabidopsis</title>
+      <link>https://CrispLab.github.io/publication/li-enzymes-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/li-enzymes-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current status and prospects of plant genome editing in Australia</title>
+      <link>https://CrispLab.github.io/publication/zhang-current-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhang-current-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and epigenetic variation in transposable element expression responses to abiotic stress in maize</title>
+      <link>https://CrispLab.github.io/publication/liang-genetic-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/liang-genetic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying cis-regulatory codes to predict conserved and variable heat and cold stress response in maize</title>
+      <link>https://CrispLab.github.io/publication/zhou-applying-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-applying-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the regulatory potential of transposable elements using chromatin accessibility profiles of maize transposons</title>
+      <link>https://CrispLab.github.io/publication/noshay-assessing-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-assessing-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stable unmethylated DNA demarcates expressed genes and their cis-regulatory space in plant genomes</title>
