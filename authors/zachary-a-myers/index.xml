@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zachary A Myers | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/zachary-a-myers/</link>
+      <atom:link href="https://CrispLab.github.io/authors/zachary-a-myers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zachary A Myers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Zachary A Myers</title>
+      <link>https://CrispLab.github.io/authors/zachary-a-myers/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of conserved and variable heat and cold stress response in maize using cis-regulatory information</title>
+      <link>https://CrispLab.github.io/publication/zhou-prediction-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-prediction-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

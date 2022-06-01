@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CrispLab</title>
+    <link>https://CrispLab.github.io/authors/2_yan/</link>
+      <atom:link href="https://CrispLab.github.io/authors/2_yan/index.xml" rel="self" type="application/rss+xml" />
+    <description>CrispLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>CrispLab</title>
+      <link>https://CrispLab.github.io/authors/2_yan/</link>
+    </image>
+    
+    <item>
+      <title>Epigenome guided crop improvement: current progress and future opportunities</title>
+      <link>https://CrispLab.github.io/publication/zhang-epigenome-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhang-epigenome-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current status and prospects of plant genome editing in Australia</title>
+      <link>https://CrispLab.github.io/publication/zhang-current-2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhang-current-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

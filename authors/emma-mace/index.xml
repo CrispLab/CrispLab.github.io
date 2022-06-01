@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emma Mace | CrispLab</title>
+    <link>https://CrispLab.github.io/authors/emma-mace/</link>
+      <atom:link href="https://CrispLab.github.io/authors/emma-mace/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emma Mace</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>Emma Mace</title>
+      <link>https://CrispLab.github.io/authors/emma-mace/</link>
+    </image>
+    
+    <item>
+      <title>Decoding the sorghum methylome: understanding epigenetic contributions to agronomic traits</title>
+      <link>https://CrispLab.github.io/publication/vafadarshamasbi-decoding-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/vafadarshamasbi-decoding-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>https://CrispLab.github.io/</link>
       <atom:link href="https://CrispLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CrispLab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>CrispLab</title>
       <link>https://CrispLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Enzymes degraded under high light maintain proteostasis by transcriptional regulation in textitArabidopsis</title>
+      <link>https://CrispLab.github.io/publication/li-enzymes-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/li-enzymes-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome‐wide loss of CHH methylation with limited transcriptome changes in Setaria viridis domains rearranged methyltransferase (DRM) mutants</title>
+      <link>https://CrispLab.github.io/publication/read-genomewide-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/read-genomewide-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drastic differential CRISPR-Cas9 induced mutagenesis influenced by DNA methylation and chromatin features</title>
+      <link>https://CrispLab.github.io/publication/weiss-drastic-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/weiss-drastic-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond the gene: epigenetic and cis-regulatory targets offer new breeding potential for the future</title>
@@ -21,10 +45,66 @@
     </item>
     
     <item>
+      <title>Decoding the sorghum methylome: understanding epigenetic contributions to agronomic traits</title>
+      <link>https://CrispLab.github.io/publication/vafadarshamasbi-decoding-2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/vafadarshamasbi-decoding-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenome guided crop improvement: current progress and future opportunities</title>
+      <link>https://CrispLab.github.io/publication/zhang-epigenome-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhang-epigenome-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited consequences for loss of RNA-directed DNA methylation in Setaria viridis domains rearranged methyltransferase (DRM) mutants</title>
+      <link>https://CrispLab.github.io/publication/read-limited-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/read-limited-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing genetic variation at regulatory regions to fine-tune traits for climate-resilient crops</title>
+      <link>https://CrispLab.github.io/publication/ganguly-harnessing-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/ganguly-harnessing-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling chromatin state from sequence across angiosperms using recurrent convolutional neural networks</title>
+      <link>https://CrispLab.github.io/publication/wrightsman-modeling-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/wrightsman-modeling-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of conserved and variable heat and cold stress response in maize using cis-regulatory information</title>
+      <link>https://CrispLab.github.io/publication/zhou-prediction-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/zhou-prediction-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Enzymes degraded under high light maintain proteostasis by transcriptional regulation in Arabidopsis</title>
       <link>https://CrispLab.github.io/publication/li-enzymes-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://CrispLab.github.io/publication/li-enzymes-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability of DNA methylation and chromatin accessibility in structurally diverse maize genomes</title>
+      <link>https://CrispLab.github.io/publication/noshay-stability-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/noshay-stability-2021/</guid>
       <description></description>
     </item>
     

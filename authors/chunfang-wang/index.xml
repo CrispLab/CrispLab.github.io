@@ -5,12 +5,28 @@
     <link>https://CrispLab.github.io/authors/chunfang-wang/</link>
       <atom:link href="https://CrispLab.github.io/authors/chunfang-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chunfang Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
       <title>Chunfang Wang</title>
       <link>https://CrispLab.github.io/authors/chunfang-wang/</link>
     </image>
+    
+    <item>
+      <title>Genome‐wide loss of CHH methylation with limited transcriptome changes in Setaria viridis domains rearranged methyltransferase (DRM) mutants</title>
+      <link>https://CrispLab.github.io/publication/read-genomewide-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/read-genomewide-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited consequences for loss of RNA-directed DNA methylation in Setaria viridis domains rearranged methyltransferase (DRM) mutants</title>
+      <link>https://CrispLab.github.io/publication/read-limited-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://CrispLab.github.io/publication/read-limited-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimization of multiplexed CRISPR/Cas9 system for highly efficient genome editing in Setaria viridis</title>
