@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CrispLab</title>
+    <link>https://CrispLab.github.io/authors/kushi/</link>
+      <atom:link href="https://CrispLab.github.io/authors/kushi/index.xml" rel="self" type="application/rss+xml" />
+    <description>CrispLab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>CC by-nd-nc 4.0; 2019</copyright>
+    <image>
+      <url>https://CrispLab.github.io/img/website%20icon.jpg</url>
+      <title>CrispLab</title>
+      <link>https://CrispLab.github.io/authors/kushi/</link>
+    </image>
+    
+  </channel>
+</rss>
